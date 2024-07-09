@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ContractPayable.sol": "sampleContract"
+			"contracts/CoffeeToken.sol": "sampleContract"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,7 +59,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ContractPayable.sol": {
+		"contracts/CoffeeToken.sol": {
 			"keccak256": "0xd19391f59a3d5b705013dfcea419ffd0be42d277a1882c74d2ab26ac7e94de33",
 			"license": "MIT",
 			"urls": [
